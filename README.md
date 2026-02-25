@@ -27,5 +27,5 @@ The more character types (Uppercase + Lowercase + Symbols + Numbers) and the lon
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/password-evaluator.git](https://github.com/YOUR_USERNAME/password-evaluator.git)
+   git clone https://github.com/ahmadalmasri95/password_strength_evaluater.git
   
